@@ -1,0 +1,2 @@
+/configure --disable-server --disable-pool --enable-krb5 --enable-sspi --enable-msdblib --with-tdsver=7.2 --with-openssl=/usr/include/openssl
+
